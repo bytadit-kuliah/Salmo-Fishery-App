@@ -1,8 +1,7 @@
 import 'dart:ffi';
 
 import 'package:flutter/material.dart';
-import 'package:salmo/main.dart';
-import 'home.dart';
+import 'package:salmo/login/login.dart';
 
 class Splash extends StatefulWidget {
   const Splash({Key? key}) : super(key: key);
@@ -21,11 +20,7 @@ class _SplashState extends State<Splash> {
   _navigatetohome() async {
     await Future.delayed(Duration(milliseconds: 2000), () {});
     Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(
-            builder: (context) => MyHomePage(
-                  title: 'GFG',
-                )));
+        context, MaterialPageRoute(builder: (context) => Login()));
   }
 
   @override
