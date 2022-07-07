@@ -1,5 +1,5 @@
 ## SALMO - Fishery App
-
+![salmo](https://raw.githubusercontent.com/bytadit/Salmo-Fishery-App/main/salmo/images/logo_salmo.png)
 ## Repository ini dipergunakan sebagai pemenuhan Tugas Besar Rekayasa Perangkat Lunak 
 ### Deskripsi Aplikasi
 "Salmo" adalah Aplikasi Marketplace Produk Laut Bebasis Mobile. Aplikasi ini dibuat untuk membantu memudahkan konsumen dalam membeli Produk Laut langsung dari Sumbernya.<br> Salmo juga membantu para pedagang ikan dan produk laut agar mereka dapat mendistribusikan dan memasarkan produk mereka seluas-luasnya.
