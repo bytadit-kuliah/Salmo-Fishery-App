@@ -1,7 +1,6 @@
-## SALMO - Fishery App
-![salmo](https://raw.githubusercontent.com/bytadit/Salmo-Fishery-App/main/salmo/images/logo_salmo.png)
-## Repository ini dipergunakan sebagai pemenuhan Tugas Besar Rekayasa Perangkat Lunak 
-### Deskripsi Aplikasi
+<p align="center" width="100%">
+    <img src="https://raw.githubusercontent.com/bytadit/Salmo-Fishery-App/main/salmo/images/logo_salmo.png">
+</p>
 "Salmo" adalah Aplikasi Marketplace Produk Laut Bebasis Mobile. Aplikasi ini dibuat untuk membantu memudahkan konsumen dalam membeli Produk Laut langsung dari Sumbernya.<br> Salmo juga membantu para pedagang ikan dan produk laut agar mereka dapat mendistribusikan dan memasarkan produk mereka seluas-luasnya.
 
 ### Installasi 
@@ -11,3 +10,4 @@
 4. Jalankan aplikasi dengan ```flutter run``` atau klik run and debug (F5) pada IDE/Text Editor
 
 ##### [Link Trello](https://trello.com/b/0zR8DqCQ/a-2-marketplace-produk-laut-salmo)
+##### [Link Figma](https://www.figma.com/file/qWeTSdhxz0jFuykZfbh0pZ/RPL---salmo?node-id=0%3A1)
