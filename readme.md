@@ -14,7 +14,7 @@
 <a href="https://trello.com/b/0zR8DqCQ/a-2-marketplace-produk-laut-salmo">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </a>
-<a href="https://trello.com/b/0zR8DqCQ/a-2-marketplace-produk-laut-salmo">
+<a href="https://www.figma.com/file/qWeTSdhxz0jFuykZfbh0pZ/RPL---salmo?node-id=0%3A1">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
